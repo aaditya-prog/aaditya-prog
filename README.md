@@ -1,6 +1,7 @@
 <p align="center"><img width="300px" src="https://media.giphy.com/media/engqWQv7omeWoRaWhL/giphy.gif" /></p>
 </br>
-**About me**
+
+#### About me:
 
 - 🌱 I’m currently learning Python and FastAPI.
 - 🥅 2022 Goals: Develop a full stack application and have it open sourced.
