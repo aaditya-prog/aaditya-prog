@@ -3,8 +3,8 @@
 
 #### About me:
 
-- 🌱 I’m currently learning Python and FastAPI.
-- 🥅 2022 Goals: Develop a full stack application and have it open sourced.
+- 🌱 I’m currently working as a UI/UX Developer and a Frontend Developer.
+- 🥅 2023 Goals: Go with the flow.
 - ⚡ Fun fact: I love to make graphic/designs.
 
 
