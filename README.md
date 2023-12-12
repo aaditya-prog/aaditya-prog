@@ -3,7 +3,7 @@
 
 #### About me:
 
-- 🌱 I’m currently working as a UI/UX Developer and a Frontend Developer.
+- 🌱 I’m currently working to design, develop and market software applications.
 - 🥅 2023 Goals: Go with the flow.
 - ⚡ Fun fact: I love to make graphic/designs.
 
