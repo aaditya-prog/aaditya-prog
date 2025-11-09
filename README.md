@@ -4,6 +4,7 @@
 #### About me:
 
 - 🌱 I’m currently working to design, develop and market software applications.
+- 👨‍🏫 I currently serve as an Adjunct Professor at MIT Nepal.
 - 🥅 2025 Goals: Go with the flow.
 - ⚡ Fun fact: I love to make graphic/designs.
 
