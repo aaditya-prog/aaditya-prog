@@ -4,7 +4,7 @@
 #### About me:
 
 - 🌱 I’m currently working to design, develop and market software applications.
-- 🥅 2023 Goals: Go with the flow.
+- 🥅 2025 Goals: Go with the flow.
 - ⚡ Fun fact: I love to make graphic/designs.
 
 
@@ -16,14 +16,7 @@
 
 <br/>
 
-### 📕 My Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Concerns about the Equifax Data Breach, what could have been done differently?](https://www.linkedin.com/pulse/concerns-equifax-data-breach-what-could-have-been-done-aaditya-dulal?trk=public_profile_article_view)
-<!-- BLOG-POST-LIST:END -->
-
-
 ---
 
-[instagram]: https://instagram.com/artdityadulal
+[instagram]: https://instagram.com/aaditya.stories
 [linkedin]: https://linkedin.com/in/aadityadulal
