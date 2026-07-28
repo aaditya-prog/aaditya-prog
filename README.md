@@ -19,5 +19,5 @@
 
 ---
 
-[instagram]: https://instagram.com/aaditya.stories
 [linkedin]: https://linkedin.com/in/aadityadulal
+[instagram]: https://instagram.com/dulal.io
